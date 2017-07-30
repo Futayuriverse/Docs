@@ -2,4 +2,4 @@
 
 ### [Markdown Cheatsheet](/markdown/README.md)
 
-Main Docs moved to [HERE](https://futayuriverse.com/docs)
+Main Docs moved to [HERE](http://docs.sarahtsumayoi.apiary.io/)
