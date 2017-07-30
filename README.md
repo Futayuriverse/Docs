@@ -1,3 +1,5 @@
 # FYV Documentions
 
-Moved to [HERE](https://futayuriverse.com/docs/index.html)
+### [Markdown Cheatsheet](/markdown/README.md)
+
+Main Docs moved to [HERE](https://futayuriverse.com/docs)
