@@ -1,3 +1,3 @@
 # FYV Documentions
 
-Moved to [HERE](https://futayuriverse.com/docs/index.html)
+Moved to [HERE](http://docs.futayuriverse.com/)
